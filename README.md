@@ -27,7 +27,7 @@ Fique a vontade para escolher cores e ícones.
 O app é apenas um modelo a ser seguido, mas cores, fontes e espeçamentos fica a critério do DEV nessa primeira parte.
 
 
-# LINKS uteis:
-## Icones: https://oblador.github.io/react-native-vector-icons/
-## Como usar icones: https://www.youtube.com/watch?v=M3RnXv74cDY&ab_channel=AllissonTech
-## StyleSheet: https://reactnative.dev/docs/stylesheet
+## LINKS uteis:
+### Icones: https://oblador.github.io/react-native-vector-icons/
+### Como usar icones: https://www.youtube.com/watch?v=M3RnXv74cDY&ab_channel=AllissonTech
+### StyleSheet: https://reactnative.dev/docs/stylesheet
